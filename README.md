@@ -1,3 +1,2 @@
-# thenodesystem
-a function based system made in python for experimentation and discovery
-made with thonny and idle 3.9
+# The NoΔΞ
+Non-linear Operation-based Data Explorer
