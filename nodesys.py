@@ -12,6 +12,20 @@ def tools(): #games cato
         print("calculator", "-calc")
     if tCh == ("calc"):
         calc()
+    if tCh == ("ste"):
+        sTextEdit()
+
+def sTextEdit():
+    with open("secretText.txt", "r") as file:
+        filecontent = file.read().splitlines()
+        print(filecontent[0])
+        print(filecontent[1])
+        oL1 = input("node/b/t/ste/line1") #overide line 1
+        oL2 = input("node/b/t/ste/line2") #overide ine 2
+        with open("secretText.txt", "w") as file:
+            file.write(oL1+'\n')
+            file.write(oL2)
+    print("file overide complete")
 
 def calc():
     userOperation = input("what operation would you like?")
@@ -121,3 +135,9 @@ print("System built by zencrypto")
 main()
 
 
+
+
+
+
+
+   
