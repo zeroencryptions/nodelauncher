@@ -88,7 +88,7 @@ def browse(): #browsing the code
 def info(): #provides info on the node
     print("-------------------------------------------------------")
     print("nodesys.py - programmed by Zencrypto")
-    print("created with a hierarchy system for complex functions")
+    print("github.com/zeroencryptions/thenodesystem")
     print("version 1.0 - 2022")
     print("like python, this program is completely open source")
     print("-------------------------------------------------------")
@@ -116,13 +116,8 @@ def main(): #main selection menu
     
 #system start, all defs before are stored in memory 
 print("NoΔΞ - Non-linear Operation based Data Explorer")
+print("github.com/zeroencryptions/thenodesystem")
 print("System built by zencrypto")
 main()
 
 
-
-
-
-
-
-   
