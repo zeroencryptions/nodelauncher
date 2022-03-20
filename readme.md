@@ -18,4 +18,4 @@ _Edit_
 _Install Instructions_
 
 > Download the NoΔΞ as a .zip directly from here and extract it into your documents folder
-> all files must be in the same directory as the NoΔΞLaucher file
+> all scripts/extended fuctions must be in the same directory as the NoΔΞLaucher file
