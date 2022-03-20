@@ -4,14 +4,14 @@
 
 Everything can be found on the basefile NoΔΞLauncher.py including help
 
-- Browse -
+_Browse_
 
 Find local python files and run them!
 
-- Edit -
+_Edit_
 
 Open the API template and create your own scripts compatible with the Node
 
-- Install Instructions -
+_Install Instructions_
 Download the NoΔΞ as a .zip directly from here and extract it into your documents folder
 all files must be in the same directory as the NoΔΞLaucher file
