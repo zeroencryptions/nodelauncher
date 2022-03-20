@@ -1,4 +1,4 @@
-# NoΔΞ Laucher v1
+# NoΔΞ Laucher v1.1
 
 ## The NoΔΞ Laucher is a system coded in python for easy editing, creation and loading of scripts designed for ease of access
 
@@ -11,6 +11,9 @@ _Browse_
 _Edit_
 
 > Open the API template and create your own scripts compatible with the Node
+
+
+### Update 1.1 - Added basic profile funcionality
 
 _Install Instructions_
 
