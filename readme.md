@@ -1,4 +1,4 @@
-# NoΔΞ Laucher v1.1
+# NoΔΞ Laucher v1.2a
 
 ## The NoΔΞ Laucher is a system coded in python for easy editing, creation and loading of scripts designed for ease of access
 
