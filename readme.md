@@ -13,8 +13,6 @@ _Edit_
 > Open the API template and create your own scripts compatible with the Node
 
 
-### Update 1.1 - Added basic profile funcionality
-
 _Install Instructions_
 
 > Download the NoΔΞ as a .zip directly from here and extract it into your documents folder
