@@ -1,6 +1,6 @@
-# NoΔΞ Laucher v1.3
+# NoΔΞ Launcher v1.3
 
-## The NoΔΞ Laucher is a system coded in python for easy editing, creation and loading of scripts designed for ease of access
+## The NoΔΞ Launcher is a system coded in python for easy editing, creation and loading of scripts designed for ease of access
 
 Everything can be found on the basefile NoΔΞLauncher.py including help
 
